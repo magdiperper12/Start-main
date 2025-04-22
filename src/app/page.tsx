@@ -1,8 +1,8 @@
 import '../app/i18n';
-import About from './About/About';
-import Hero from './Home/Hero';
+import About from './(Root)/About/About';
+import Hero from './(Root)/Home/Hero';
 
-import Services from './Services/Service';
+import Services from './(Root)/Services/Service';
 
 export default function Home() {
 	return (
